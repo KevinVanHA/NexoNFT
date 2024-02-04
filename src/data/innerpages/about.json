@@ -1,0 +1,106 @@
+{
+    "title": "Sobre nosotros",
+    "content": [
+        {
+            "section": "about-section",
+            "section_title": {
+                "title": "NFT's a tu manera <br> sin complicaciones"
+            },
+            "image": {
+                "src": "/images/bg/bg-image-22.jpg"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "¿Quienes somos?",
+                    "description": "Somos un grupo de desarrolladores y fans de la técnologia Blockchain. Hemos creade Nexo porque creemos firmamente que la técnologia debe ser simplificada y debe dejar de ser un obstaculo para poder expresarte y coleccionar arte digital",
+                    "path": "/blog"
+                },
+                {
+                    "id": 2,
+                    "title": "Te ayudamos a conseguir <br/> lo que siempre has querido",
+                    "description": "Los NFT son tokens virtuales que representan la propiedad de algo intrínsecamente distinto y escaso, ya sea un artículo físico o digital, como una obra de arte, una banda sonora, un objeto coleccionable, un artículo del juego o un bien inmueble. A diferencia de las criptomonedas normales como bitcoin o dinero fiduciario como las de EE. UU. "
+                }
+            ]
+        },
+        {
+            "section": "quote-section",
+            "section_title": {
+                "title": "Cree, venda y recopile sus maravillosos NFT en Nexo muy rápido"
+            },
+            "texts": [
+                {
+                    "id": 1,
+                    "content": "Para los ilustradores, músicos y otros artistas NFT es una manera perfecta de vender sus obras y ganar dinero. Para ello no necesitan nada ni a nadie: ni a los directores, ni las compañías discográficas, ni galerías famosas, ni las casas de subastas."
+                }
+            ]
+        },
+        {
+            "section": "funfact-section",
+            "section_title": {
+                "title": "Nexo estadisticas"
+            },
+            "funfacts": [
+                {
+                    "id": 1,
+                    "title": "NFT's generados",
+                    "counter": 100020
+                },
+                {
+                    "id": 2,
+                    "title": "Artistas",
+                    "counter": 500,
+                    "suffix": "+"
+                },
+                {
+                    "id": 3,
+                    "title": "Ingresos (Mill)",
+                    "counter": 700
+                },
+                {
+                    "id": 4,
+                    "title": "comerciantes",
+                    "counter": 900,
+                    "suffix": "+"
+                }
+            ]
+        },
+        {
+            "section": "cta-section",
+            "headings": [
+                {
+                    "id": 1,
+                    "content": "Descubra arte digital raro y recolecta NFT's"
+                }
+            ],
+            "texts": [
+                {
+                    "id": 1,
+                    "content": "En 2021 el volumen del comercio de NFT de todo el mundo alcanzó los 3,34 mil millones de dólares (2,83 mil nillones de euros) por 8 meses, mientras que en el mismo período de 2020 equivalía a los 17,1 mil dólares (14,5 mil euros). Es decir, el mercado creció 196 veces. "
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "/create",
+                    "content": "Crea"
+                },
+                {
+                    "id": 2,
+                    "path": "/contact",
+                    "content": "Contactanos",
+                    "color": "primary-alta"
+                }
+            ],
+            "image": {
+                "src": "/images/bg/bg-image-6.jpg"
+            }
+        },
+        {
+            "section": "blog-section",
+            "section_title": {
+                "title": "Nuestro blog"
+            }
+        }
+    ]
+}

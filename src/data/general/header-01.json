@@ -1,0 +1,12 @@
+{
+    "id": "header-data-1",
+    "logo": [
+        {
+            "src": "/images/logo/NexoLogo.png"
+        },
+        {
+            "src": "/images/logo/NexoLogoLight.png"
+        }
+    ],
+    "activity_link": "/activity"
+}

@@ -1,0 +1,323 @@
+{
+    "title": "home-09",
+    "content": [
+        {
+            "section": "hero-section",
+            "banners": [
+                {
+                    "id": 1,
+                    "title": "CrescentDAO Governance NFT",
+                    "path": "/collection",
+                    "published_at": "20-JUN-2021 08:03:00",
+                    "latestBid": "1/20",
+                    "price": "0.244wETH",
+                    "likeCount": 322,
+                    "image": {
+                        "src": "/images/bg/bg-image-21.jpg"
+                    },
+                    "auction_date": "2024-10-08",
+                    "authors": [
+                        {
+                            "name": "Mark Jordan",
+                            "slug": "/author",
+                            "image": {
+                                "src": "/images/client/client-2.png"
+                            }
+                        },
+                        {
+                            "name": "Stefan Van Haesendonck",
+                            "slug": "/author",
+                            "image": {
+                                "src": "/images/client/client-3.png"
+                            }
+                        },
+                        {
+                            "name": "Kevin Van Haesendonck",
+                            "slug": "/author",
+                            "image": {
+                                "src": "/images/client/client-5.png"
+                            }
+                        }
+                    ],
+                    "bitCount": 15,
+                    "highest_bid": {
+                        "user": {
+                            "name": "Adriana Vasquez",
+                            "path": "/collection",
+                            "image": {
+                                "src": "/images/client/client-7.png"
+                            }
+                        },
+                        "amount": "0.115wETH"
+                    },
+                    "categories": [
+                        {
+                            "id": 1,
+                            "value": "APP",
+                            "type": "ZARY"
+                        },
+                        {
+                            "id": 2,
+                            "value": "TRIBUTE",
+                            "type": "SOMALIAN"
+                        },
+                        {
+                            "id": 3,
+                            "value": "PIPE",
+                            "type": "TUNA"
+                        }
+                    ],
+                    "properties": [
+                        {
+                            "id": 1,
+                            "type": "HYPE TYPE",
+                            "value": "CALM AF (STILL)"
+                        },
+                        {
+                            "id": 2,
+                            "type": "BASTARDNESS",
+                            "value": "C00LIO BASTARD"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "New Dod Glitter Worlds",
+                    "path": "/collection",
+                    "published_at": "20-JUN-2021 08:03:00",
+                    "latestBid": "1/20",
+                    "price": "0.244wETH",
+                    "likeCount": 322,
+                    "image": {
+                        "src": "/images/bg/bg-image-22.jpg"
+                    },
+                    "auction_date": "2024-10-08",
+                    "authors": [
+                        {
+                            "name": "Mark Jordan",
+                            "slug": "/author",
+                            "image": {
+                                "src": "/images/client/client-2.png"
+                            }
+                        },
+                        {
+                            "name": "Farik Shaikh",
+                            "slug": "/author",
+                            "image": {
+                                "src": "/images/client/client-3.png"
+                            }
+                        },
+                        {
+                            "name": "John Doe",
+                            "slug": "/author",
+                            "image": {
+                                "src": "/images/client/client-5.png"
+                            }
+                        }
+                    ],
+                    "bitCount": 15,
+                    "highest_bid": {
+                        "user": {
+                            "name": "Atif Aslam",
+                            "path": "/collection",
+                            "image": {
+                                "src": "/images/client/client-7.png"
+                            }
+                        },
+                        "amount": "0.115wETH"
+                    },
+                    "categories": [
+                        {
+                            "id": 1,
+                            "value": "APP",
+                            "type": "ZARY"
+                        },
+                        {
+                            "id": 2,
+                            "value": "TRIBUTE",
+                            "type": "SOMALIAN"
+                        },
+                        {
+                            "id": 3,
+                            "value": "PIPE",
+                            "type": "TUNA"
+                        }
+                    ],
+                    "properties": [
+                        {
+                            "id": 1,
+                            "type": "HYPE TYPE",
+                            "value": "CALM AF (STILL)"
+                        },
+                        {
+                            "id": 2,
+                            "type": "BASTARDNESS",
+                            "value": "C00LIO BASTARD"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Collect Your Digital Product",
+                    "path": "/collection",
+                    "published_at": "20-JUN-2021 08:03:00",
+                    "latestBid": "1/20",
+                    "price": "0.244wETH",
+                    "likeCount": 322,
+                    "image": {
+                        "src": "/images/bg/bg-image-22.jpg"
+                    },
+                    "auction_date": "2024-10-08",
+                    "authors": [
+                        {
+                            "name": "Mark Jordan",
+                            "slug": "/author",
+                            "image": {
+                                "src": "/images/client/client-2.png"
+                            }
+                        },
+                        {
+                            "name": "Farik Shaikh",
+                            "slug": "/author",
+                            "image": {
+                                "src": "/images/client/client-3.png"
+                            }
+                        },
+                        {
+                            "name": "John Doe",
+                            "slug": "/author",
+                            "image": {
+                                "src": "/images/client/client-5.png"
+                            }
+                        }
+                    ],
+                    "bitCount": 15,
+                    "highest_bid": {
+                        "user": {
+                            "name": "Atif Aslam",
+                            "path": "/collection",
+                            "image": {
+                                "src": "/images/client/client-7.png"
+                            }
+                        },
+                        "amount": "0.115wETH"
+                    },
+                    "categories": [
+                        {
+                            "id": 1,
+                            "value": "APP",
+                            "type": "ZARY"
+                        },
+                        {
+                            "id": 2,
+                            "value": "TRIBUTE",
+                            "type": "SOMALIAN"
+                        },
+                        {
+                            "id": 3,
+                            "value": "PIPE",
+                            "type": "TUNA"
+                        }
+                    ],
+                    "properties": [
+                        {
+                            "id": 1,
+                            "type": "HYPE TYPE",
+                            "value": "CALM AF (STILL)"
+                        },
+                        {
+                            "id": 2,
+                            "type": "BASTARDNESS",
+                            "value": "C00LIO BASTARD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "about-section",
+            "title": "La plataforma NFT más popular para hispanohablantes   ",
+            "description": "¿Qué son los Tokens No Fungibles (NFT's)? Los Tokens No Fungibles (NFT's) son unidades únicas de datos almacenadas en una cadena de bloques (blockchain) que representan la propiedad de un activo digital. A diferencia de las criptomonedas como Bitcoin o Ethereum, que son intercambiables entre sí, los NFT's son únicos y no se pueden reemplazar por otro activo equivalente. Esto significa que cada NFT tiene un valor y una identidad propios."
+        },
+        {
+            "section": "live-explore-section",
+            "section_title": {
+                "title": "Subasta en vivo"
+            }
+        },
+        {
+            "section": "product-section",
+            "section_title": {
+                "title": "Nuestros NFT'S"
+            }
+        },
+        {
+            "section": "product-section-two",
+            "section_title": {
+                "title": "Todos nuestros NFT's"
+            }
+        },
+        {
+            "section": "collection-section",
+            "section_title": {
+                "title": "Mejor Colección"
+            }
+        },
+        {
+            "section": "service-section",
+            "section_title": {
+                "title": "¿Cómo funciona?"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Crea una billetera",
+                    "path": "/connect",
+                    "subtitle": "Paso-01",
+                    "description": "Una billetera Web3 es una aplicación o plataforma que permite a los usuarios gestionar y almacenar sus activos digitales en el entorno de Web3.",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-7.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Crea tu colección",
+                    "path": "/collection",
+                    "subtitle": "Paso-02",
+                    "description": "Una colección puede ser un conjunto de artes similares, o simplemente todos tus artes. Personas pueden hacer ofertas en todo tu colección o en cada NFT por separado",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Agrega tus NFT's",
+                    "path": "/connect",
+                    "subtitle": "Paso-03",
+                    "description": "Una vez creada la colleción debes subir los diferentes piezas dentro de la colleción. Se puede elegir un precio por cada uno o establecer un precio minimo por toda la coleción.",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-5.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Vende tus NFT's",
+                    "path": "/creator",
+                    "subtitle": "Paso-04",
+                    "description": "No hay nada más emocionante de realizar una venta de esta manera sencilla. Recibirás los fondos en tu billetere de forma automático. Rápido y seguro!",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-6.png"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+[
+    {
+        "id": 2,
+        "title": "Sold Darken Forever Quick",
+        "path": "/connect",
+        "description": "Se vendió en 1221 ETH",
+        "date": "15 Julio",
+        "time": "10:32 PM",
+        "image": {
+            "src": "/images/client/client-4.png"
+        },
+        "type": "más nuevo"
+    },
+    {
+        "id": 3,
+        "title": "Sold Darken Forever Quick",
+        "path": "/connect",
+        "description": "Se vendió en 1221 ETH",
+        "date": "16 julio",
+        "time": "10:50 PM",
+        "image": {
+            "src": "/images/client/client-5.png"
+        },
+        "type": "En tendencia"
+    },
+    {
+        "id": 4,
+        "title": "Sold Darken Forever Quick",
+        "path": "/connect",
+        "description": "Se vendió en 1240 ETH",
+        "date": "17 julio",
+        "time": "11:50 PM",
+        "image": {
+            "src": "/images/client/client-6.png"
+        },
+        "type": "más nuevo"
+    },
+    {
+        "id": 5,
+        "title": "Sold Darken Forever Quick",
+        "path": "/connect",
+        "description": "Se vendió en by 1340 ETH",
+        "date": "17 julio",
+        "time": "09:50 AM",
+        "image": {
+            "src": "/images/client/client-7.png"
+        },
+        "type": "tranding"
+    },
+    {
+        "id": 6,
+        "title": "Sold Darken Forever Quick",
+        "path": "/connect",
+        "description": "Se vendió en 1040 ETH",
+        "date": "20 febrero",
+        "time": "10:50 AM",
+        "image": {
+            "src": "/images/client/client-8.png"
+        },
+        "type": "más nuevo"
+    },
+    {
+        "id": 7,
+        "title": "Sold Darken Forever Quick",
+        "path": "/connect",
+        "description": "Se vendió en 910 ETH",
+        "date": "21 febrero",
+        "time": "09:10 AM",
+        "image": {
+            "src": "/images/client/client-9.png"
+        },
+        "type": "Guardado"
+    },
+    {
+        "id": 8,
+        "title": "Sold Darken Forever Quick",
+        "path": "/connect",
+        "description": "Se vendió en 550 ETH",
+        "date": "21 enero",
+        "time": "11:10 PM",
+        "image": {
+            "src": "/images/client/client-10.png"
+        },
+        "type": "más nuevo"
+    },
+    {
+        "id": 9,
+        "title": "Sold Darken Forever Quick",
+        "path": "/connect",
+        "description": "Se vendió en 222 ETH",
+        "date": "15 enero",
+        "time": "05:10 AM",
+        "image": {
+            "src": "/images/client/client-11.png"
+        },
+        "type": "Guardado"
+    },
+    {
+        "id": 10,
+        "title": "Sold Darken Forever Quick",
+        "path": "/connect",
+        "description": "Se vendió en 890 ETH",
+        "date": "13 feberero",
+        "time": "04:15 PM",
+        "image": {
+            "src": "/images/client/client-1.png"
+        },
+        "type": "más nuevo"
+    },
+    {
+        "id": 11,
+        "title": "Sold Darken Forever Quick",
+        "path": "/connect",
+        "description": "Se vendió en 910 ETH",
+        "date": "21 febrero",
+        "time": "09:10 AM",
+        "image": {
+            "src": "/images/client/client-2.png"
+        },
+        "type": "En tendencia"
+    },
+    {
+        "id": 12,
+        "title": "Sold Darken Forever Quick",
+        "path": "/connect",
+        "description": "Se vendió en 120 ETH",
+        "date": "21 febrero",
+        "time": "05:10 AM",
+        "image": {
+            "src": "/images/client/client-2.png"
+        },
+        "type": "Borrado"
+    },
+    {
+        "id": 13,
+        "title": "Sold Darken Forever Quick",
+        "path": "/connect",
+        "description": "Se vendió en 1210 ETH",
+        "date": "21 febrero",
+        "time": "10:10 PM",
+        "image": {
+            "src": "/images/client/client-3.png"
+        },
+        "type": "En tendencia"
+    },
+    {
+        "id": 14,
+        "title": "Sold Darken Forever Quick",
+        "path": "/connect",
+        "description": "Se vendió en 1910 ETH",
+        "date": "25 febrero",
+        "time": "08:10 PM",
+        "image": {
+            "src": "/images/client/client-4.png"
+        },
+        "type": "Borrado"
+    },
+    {
+        "id": 15,
+        "title": "Sold Darken Forever Quick",
+        "path": "/connect",
+        "description": "Se vendió en 555 ETH",
+        "date": "21 febrero",
+        "time": "11:15 AM",
+        "image": {
+            "src": "/images/client/client-5.png"
+        },
+        "type": "Guardado"
+    },
+    {
+        "id": 16,
+        "title": "Sold Darken Forever Quick",
+        "path": "/connect",
+        "description": "Se vendió en 750 ETH",
+        "date": "21 febrero",
+        "time": "8:10 AM",
+        "image": {
+            "src": "/images/client/client-6.png"
+        },
+        "type": "Borrado"
+    }
+]

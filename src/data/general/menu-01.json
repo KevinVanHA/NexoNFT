@@ -1,0 +1,63 @@
+[
+    {
+        "id": 19,
+        "text": "Inicio ",
+        "path": "/  "
+    },
+    {
+        "id": 2,
+        "text": "Sobre Nexo",
+        "path": "/about"
+    },
+    {
+        "id": 3,
+        "text": "Explorar",
+        "path": "/explore-14"
+    },
+    {
+        "id": 4,
+        "text": "NFT",
+        "path": "#!",
+        "megamenu": [
+            {
+                "id": 41,
+                "submenu": [
+                    {
+                        "id": 410,
+                        "text": "Crea tu NFT",
+                        "path": "/create",
+                        "icon": "feather-file-plus"
+                    },
+                    {
+                        "id": 411,
+                        "text": "Crea una colección",
+                        "path": "/upload-variants",
+                        "icon": "feather-layers"
+                    },
+                    {
+                        "id": 414,
+                        "text": "Tus colleciones",
+                        "path": "/collection",
+                        "icon": "feather-package"
+                    },
+                    {
+                        "id": 432,
+                        "text": "Ranking de NFT's",
+                        "path": "/ranking",
+                        "icon": "feather-trending-up"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "Blog",
+        "path": "/blog"
+    },
+    {
+        "id": 6,
+        "text": "Contacto",
+        "path": "/contact"
+    }
+]

@@ -1,0 +1,145 @@
+{
+    "id": "footer-data-01",
+    "logo-widget": {
+        "logo": [
+            {
+                "src": "/images/logo/NexoLogo.png",
+                "alt": "logo"
+            }
+        ],
+        "text": "Creado por Kevin Van Haesendonck - TFM Unir"
+    },
+    "newsletter-widget": {
+        "title": "Recibe las ultimas noticas"
+    },
+    "quicklink-widget": {
+        "title": "Nexo NFT",
+        "menu": [
+            {
+                "id": 1,
+                "text": "Explora",
+                "path": "/explore-01"
+            },
+            {
+                "id": 2,
+                "text": "sobre nosotros",
+                "path": "/about"
+            },
+            {
+                "id": 3,
+                "text": "Optimiza tu tiempo",
+                "path": "/about"
+            },
+            {
+                "id": 4,
+                "text": "Revisión visual",
+                "path": "/about"
+            },
+            {
+                "id": 5,
+                "text": "Tiempo del sistema",
+                "path": "/blog"
+            },
+            {
+                "id": 6,
+                "text": "Actividad",
+                "path": "/activity"
+            },
+            {
+                "id": 7,
+                "text": "Blog",
+                "path": "/blog"
+            }
+        ]
+    },
+    "information-widget": {
+        "title": "Información",
+        "menu": [
+            {
+                "id": 1,
+                "text": "Blockchain explorer",
+                "path": "/explore-01"
+            },
+            {
+                "id": 2,
+                "text": "Nuestro Token",
+                "path": "/about"
+            },
+            {
+                "id": 3,
+                "text": "Tiempo del sistema",
+                "path": "/about"
+            },
+            {
+                "id": 4,
+                "text": "Opciones",
+                "path": "/about"
+            },
+            {
+                "id": 5,
+                "text": "Blog Grid",
+                "path": "/blog"
+            },
+            {
+                "id": 6,
+                "text": "Sobre nosotros",
+                "path": "/about"
+            },
+            {
+                "id": 7,
+                "text": "Reportear bugs",
+                "path": "/blog"
+            }
+        ]
+    },
+    "soldout-widget": {
+        "title": "Recien vendido",
+        "products": [
+            {
+                "id": 1,
+                "title": "#21 The Wonder",
+                "path": "/product",
+                "highestBid": "Oferta más alta 1/20",
+                "price": "0.244wETH",
+                "image": {
+                    "src": "/images/portfolio/portfolio-01.jpg"
+                }
+            },
+            {
+                "id": 2,
+                "title": "Diamond Dog",
+                "path": "/product",
+                "highestBid": "Oferta más alta 1/20",
+                "price": "0.022wETH",
+                "image": {
+                    "src": "/images/portfolio/portfolio-02.jpg"
+                }
+            },
+            {
+                "id": 3,
+                "title": "Morgan11",
+                "path": "/product",
+                "highestBid": "Oferta más alta 1/20",
+                "price": "0.892wETH",
+                "image": {
+                    "src": "/images/portfolio/portfolio-03.jpg"
+                }
+            }
+        ]
+    },
+    "footer-link-widget": {
+        "menu": [
+            {
+                "id": 1,
+                "text": "Terminos y condiciones",
+                "path": "/terms-condition"
+            },
+            {
+                "id": 2,
+                "text": "Politica de privacidad",
+                "path": "/privacy-policy"
+            }
+        ]
+    },
+    "copyright_text": "©2023 Nexo NFT, Todos los derechos reservados"
+}

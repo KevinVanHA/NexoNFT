@@ -1,5 +1,5 @@
 {
-    "name": "nuron-nextjs",
+    "name": "nexo-nextjs",
     "scripts": {
         "dev": "next dev",
         "build": "next build",

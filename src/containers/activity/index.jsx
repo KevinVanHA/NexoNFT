@@ -38,7 +38,7 @@ const ActivityArea = ({ space, className, data }) => {
         >
             <div className="container">
                 <div className="row mb--30">
-                    <h3 className="title">All following Acivity</h3>
+                    <h3 className="title">Toda la actividad</h3>
                 </div>
                 <div className="row g-6 activity-direction">
                     <div className="col-lg-8 mb_dec--15">
@@ -61,7 +61,7 @@ const ActivityArea = ({ space, className, data }) => {
                             <Sticky top="100px">
                                 <div className="widge-wrapper rbt-sticky-top-adjust">
                                     <div className="inner">
-                                        <h3>Market filter</h3>
+                                        <h3>Filtro del mercado</h3>
                                         <div className="sing-filter">
                                             {marketFilters?.map((item) => (
                                                 <button
@@ -77,7 +77,7 @@ const ActivityArea = ({ space, className, data }) => {
                                         </div>
                                     </div>
                                     <div className="inner">
-                                        <h3>Filter by users</h3>
+                                        <h3>Filtro por usuario</h3>
                                         <div className="sing-filter">
                                             {userFilters?.map((item) => (
                                                 <button
